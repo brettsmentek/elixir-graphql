@@ -1,0 +1,1 @@
+Elixirgraphql.DemoManager.seed!()
